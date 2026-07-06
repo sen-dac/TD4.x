@@ -1,2 +1,4 @@
 * text=auto eol=crlf
 *.txt text eol=crlf
+*.c text working-tree-encoding=CP932
+*.h text working-tree-encoding=CP932
